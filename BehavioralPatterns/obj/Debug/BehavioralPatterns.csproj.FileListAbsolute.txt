@@ -1,0 +1,5 @@
+C:\Users\zlanusic\Documents\Visual Studio 2008\Projects\DesignPatterns\BehavioralPatterns\bin\Debug\BehavioralPatterns.exe
+C:\Users\zlanusic\Documents\Visual Studio 2008\Projects\DesignPatterns\BehavioralPatterns\bin\Debug\BehavioralPatterns.pdb
+C:\Users\zlanusic\Documents\Visual Studio 2008\Projects\DesignPatterns\BehavioralPatterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zlanusic\Documents\Visual Studio 2008\Projects\DesignPatterns\BehavioralPatterns\obj\Debug\BehavioralPatterns.exe
+C:\Users\zlanusic\Documents\Visual Studio 2008\Projects\DesignPatterns\BehavioralPatterns\obj\Debug\BehavioralPatterns.pdb
